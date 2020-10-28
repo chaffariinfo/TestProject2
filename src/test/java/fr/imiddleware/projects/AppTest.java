@@ -1,4 +1,4 @@
-package fr.immiddleware.projects;
+package fr.imiddleware.projects;
 
 import static org.junit.Assert.assertTrue;
 
